@@ -1,0 +1,693 @@
+17-03-2026 11:13:28  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 11:13:28  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 11:13:29  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 11:13:29  ShipMethod COunt total:-24
+17-03-2026 11:13:29  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 11:13:29  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 11:13:29  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 11:13:29  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 11:13:35  Form:FrmCustomerCenter,Function :LoadFunction. Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+17-03-2026 11:13:35  ShipMethod COunt total:-24
+17-03-2026 11:13:35  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 15:00:39  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 15:00:39  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 15:00:41  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 15:00:41  ShipMethod COunt total:-24
+17-03-2026 15:00:41  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 15:00:41  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 15:00:41  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 15:00:41  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 15:36:06  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 15:36:06  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 15:36:08  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 15:36:08  ShipMethod COunt total:-24
+17-03-2026 15:36:08  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 15:36:08  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 15:36:08  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 15:36:08  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 15:36:21  Form:FrmCustomerCenter,Function :LoadFunction. Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+17-03-2026 15:36:21  ShipMethod COunt total:-24
+17-03-2026 15:36:21  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 15:36:27  Form:FrmCustomerMaster,Function :ShipAddrress. Message:Column 'Name' does not belong to table .
+17-03-2026 15:36:34  Form:FrmCustomerMaster,Function :ShipAddrress. Message:Column 'Name' does not belong to table .
+17-03-2026 15:36:37  Form:FrmCustomerMaster,Function :ShipAddrress. Message:Column 'Name' does not belong to table .
+17-03-2026 15:37:52  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 15:37:52  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 15:37:54  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 15:37:54  ShipMethod COunt total:-24
+17-03-2026 15:37:54  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 15:37:54  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 15:37:54  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 15:37:54  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 15:38:11  Form:FrmCustomerCenter,Function :LoadFunction. Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+17-03-2026 15:38:12  ShipMethod COunt total:-24
+17-03-2026 15:38:12  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:04:12  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 16:04:12  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 16:04:14  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:04:14  ShipMethod COunt total:-24
+17-03-2026 16:04:14  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:04:14  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 16:04:14  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 16:04:14  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 16:04:50  Form:FrmCustomerCenter,Function :LoadFunction. Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+17-03-2026 16:04:50  ShipMethod COunt total:-24
+17-03-2026 16:04:50  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:05:37  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 16:05:37  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 16:05:39  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:05:39  ShipMethod COunt total:-24
+17-03-2026 16:05:39  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:05:39  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 16:05:39  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 16:05:39  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 16:05:50  Form:FrmCustomerCenter,Function :LoadFunction. Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+17-03-2026 16:05:50  ShipMethod COunt total:-24
+17-03-2026 16:05:50  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:19:58  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 16:19:58  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 16:20:00  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:20:00  ShipMethod COunt total:-24
+17-03-2026 16:20:00  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:20:00  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 16:20:00  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 16:20:00  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 16:20:05  Form:FrmCustomerCenter,Function :LoadFunction. Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+17-03-2026 16:20:05  ShipMethod COunt total:-24
+17-03-2026 16:20:05  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:20:54  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 16:20:54  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 16:20:55  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:20:55  ShipMethod COunt total:-24
+17-03-2026 16:20:55  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:20:55  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 16:20:55  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 16:20:55  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 16:21:07  Form:FrmCustomerCenter,Function :LoadFunction. Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+17-03-2026 16:21:08  ShipMethod COunt total:-24
+17-03-2026 16:21:08  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:28:20  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 16:28:20  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 16:28:22  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:28:23  ShipMethod COunt total:-24
+17-03-2026 16:28:23  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:28:23  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 16:28:24  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 16:28:24  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 16:28:30  Form:FrmCustomerCenter,Function :LoadFunction. Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+17-03-2026 16:28:31  ShipMethod COunt total:-24
+17-03-2026 16:28:31  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:28:47  Form:FrmCustomerCenter,Function :contextMenuStrip1_NewCustomerClicked. Message:Object reference not set to an instance of an object.
+17-03-2026 16:29:27  Form:FrmCustomerMaster,Function :CopyBillAddress. Message:Column 'Name' does not belong to table .
+17-03-2026 16:31:03  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 16:31:03  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 16:31:05  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:31:05  ShipMethod COunt total:-24
+17-03-2026 16:31:05  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 16:31:05  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 16:31:05  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 16:31:05  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 16:31:10  Form:FrmCustomerCenter,Function :LoadFunction. Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+17-03-2026 16:31:10  ShipMethod COunt total:-24
+17-03-2026 16:31:10  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:07:00  Form:FrmCustomerMaster,Function :btnOK_Click. Message: Error Create Customer Data
+17-03-2026 17:07:47  Form:FrmCustomerMaster,Function :btnOK_Click. Message: Error Create Customer Data
+17-03-2026 17:13:01  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:13:01  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:13:03  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:13:03  ShipMethod COunt total:-24
+17-03-2026 17:13:03  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:13:03  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:13:03  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:13:03  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:13:08  ShipMethod COunt total:-24
+17-03-2026 17:13:08  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:13:53  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:13:53  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:13:54  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:13:54  ShipMethod COunt total:-24
+17-03-2026 17:13:54  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:13:54  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:13:55  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:13:55  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:13:59  ShipMethod COunt total:-24
+17-03-2026 17:13:59  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:14:46  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:14:46  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:14:48  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:14:48  ShipMethod COunt total:-24
+17-03-2026 17:14:48  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:14:48  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:14:48  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:14:48  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:14:57  ShipMethod COunt total:-24
+17-03-2026 17:14:57  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:20:34  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:20:34  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:20:35  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:20:35  ShipMethod COunt total:-24
+17-03-2026 17:20:35  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:20:35  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:20:35  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:20:35  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:20:45  ShipMethod COunt total:-24
+17-03-2026 17:20:45  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:25:36  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:25:36  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:25:37  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:25:37  ShipMethod COunt total:-24
+17-03-2026 17:25:37  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:25:37  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:25:37  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:25:37  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:25:53  ShipMethod COunt total:-24
+17-03-2026 17:25:53  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:27:04  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:27:05  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:27:06  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:27:06  ShipMethod COunt total:-24
+17-03-2026 17:27:06  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:27:06  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:27:06  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:27:06  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:27:10  ShipMethod COunt total:-24
+17-03-2026 17:27:10  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:27:45  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:27:45  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:27:47  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:27:47  ShipMethod COunt total:-24
+17-03-2026 17:27:47  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:27:47  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:27:47  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:27:47  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:27:52  ShipMethod COunt total:-24
+17-03-2026 17:27:52  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:28:40  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:28:40  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:28:41  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:28:41  ShipMethod COunt total:-24
+17-03-2026 17:28:41  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:28:41  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:28:41  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:28:41  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:28:46  ShipMethod COunt total:-24
+17-03-2026 17:28:46  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:29:42  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:29:42  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:29:42  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:29:42  ShipMethod COunt total:-24
+17-03-2026 17:29:42  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:29:42  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:29:42  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:29:42  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:29:48  ShipMethod COunt total:-24
+17-03-2026 17:29:48  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:30:35  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:30:35  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:30:37  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:30:37  ShipMethod COunt total:-24
+17-03-2026 17:30:37  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:30:37  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:30:37  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:30:37  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:30:41  ShipMethod COunt total:-24
+17-03-2026 17:30:41  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:31:34  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:31:34  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:31:35  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:31:35  ShipMethod COunt total:-24
+17-03-2026 17:31:35  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:31:35  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:31:35  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:31:35  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:31:40  ShipMethod COunt total:-24
+17-03-2026 17:31:40  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:33:44  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:33:44  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:33:46  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:33:46  ShipMethod COunt total:-24
+17-03-2026 17:33:46  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:33:46  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:33:46  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:33:46  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:33:51  ShipMethod COunt total:-24
+17-03-2026 17:33:51  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:37:59  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:37:59  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:38:01  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:38:01  ShipMethod COunt total:-24
+17-03-2026 17:38:01  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:38:01  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:38:01  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:38:01  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:38:05  ShipMethod COunt total:-24
+17-03-2026 17:38:05  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:39:08  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:39:08  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:39:10  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:39:10  ShipMethod COunt total:-24
+17-03-2026 17:39:10  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:39:10  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:39:10  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:39:10  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:39:15  ShipMethod COunt total:-24
+17-03-2026 17:39:15  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:41:20  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:41:20  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:41:21  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:41:21  ShipMethod COunt total:-24
+17-03-2026 17:41:21  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:41:21  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:41:21  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:41:21  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:41:26  ShipMethod COunt total:-24
+17-03-2026 17:41:26  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:42:20  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:42:20  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:42:22  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:42:22  ShipMethod COunt total:-24
+17-03-2026 17:42:22  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:42:22  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:42:22  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:42:22  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:42:26  ShipMethod COunt total:-24
+17-03-2026 17:42:26  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:43:18  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:43:18  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:43:19  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:43:19  ShipMethod COunt total:-24
+17-03-2026 17:43:19  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:43:19  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:43:19  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:43:19  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:43:24  ShipMethod COunt total:-24
+17-03-2026 17:43:24  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:45:31  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:45:31  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:45:32  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:45:32  ShipMethod COunt total:-24
+17-03-2026 17:45:32  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:45:32  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:45:32  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:45:32  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:45:42  ShipMethod COunt total:-24
+17-03-2026 17:45:42  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:47:54  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:47:54  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:47:56  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:47:56  ShipMethod COunt total:-24
+17-03-2026 17:47:56  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:47:56  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:47:56  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:47:56  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:48:02  ShipMethod COunt total:-24
+17-03-2026 17:48:02  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:49:38  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:49:38  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:49:39  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:49:39  ShipMethod COunt total:-24
+17-03-2026 17:49:39  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:49:39  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:49:40  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:49:40  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:49:47  ShipMethod COunt total:-24
+17-03-2026 17:49:47  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:50:51  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:50:51  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:50:53  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:50:53  ShipMethod COunt total:-24
+17-03-2026 17:50:53  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:50:53  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:50:53  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:50:53  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:50:57  ShipMethod COunt total:-24
+17-03-2026 17:50:57  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:51:49  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:51:49  ShipMethod COunt total:-24
+17-03-2026 17:51:49  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:51:49  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:52:01  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:52:01  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 17:52:02  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:52:02  ShipMethod COunt total:-24
+17-03-2026 17:52:02  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:52:02  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:52:02  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:52:02  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 17:52:08  ShipMethod COunt total:-24
+17-03-2026 17:52:08  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 17:52:13  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 17:52:13  ShipMethod COunt total:-24
+17-03-2026 17:52:13  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 17:52:13  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 17:52:13  Form:FrmCustomerCenter,Function :cmbInvoiceManageTransactions_SelectedIndexChanged. Message:InvalidArgument=Value of '0' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+17-03-2026 17:52:16  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 17:52:21  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 18:13:24  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 18:13:24  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 18:13:25  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 18:13:25  ShipMethod COunt total:-24
+17-03-2026 18:13:25  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 18:13:25  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 18:13:25  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 18:13:25  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 18:13:33  ShipMethod COunt total:-24
+17-03-2026 18:13:33  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 18:14:04  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 18:14:04  ShipMethod COunt total:-24
+17-03-2026 18:14:04  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 18:14:04  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 18:14:04  Form:FrmCustomerCenter,Function :cmbInvoiceManageTransactions_SelectedIndexChanged. Message:InvalidArgument=Value of '0' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+17-03-2026 18:14:08  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 18:14:10  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 18:14:47  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 18:14:47  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 18:15:10  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 18:15:10  ShipMethod COunt total:-24
+17-03-2026 18:15:10  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 18:15:10  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 18:15:11  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 18:15:11  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 18:18:28  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 18:18:28  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 18:18:42  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 18:18:42  ShipMethod COunt total:-24
+17-03-2026 18:18:42  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 18:18:42  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 18:18:43  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 18:18:43  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 18:19:10  ShipMethod COunt total:-24
+17-03-2026 18:19:10  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 18:20:20  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 18:20:20  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 18:20:21  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 18:20:21  ShipMethod COunt total:-24
+17-03-2026 18:20:21  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 18:20:21  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 18:20:21  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 18:20:21  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 18:21:23  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 18:21:23  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 18:21:25  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 18:21:25  ShipMethod COunt total:-24
+17-03-2026 18:21:25  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 18:21:25  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 18:21:25  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 18:21:25  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 18:21:55  Form:FrmItemMaster,Function :SaveData. Message: Error Create Customer Data
+17-03-2026 19:32:22  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 19:32:22  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 19:32:23  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:32:23  ShipMethod COunt total:-24
+17-03-2026 19:32:23  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:32:23  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:32:23  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 19:32:23  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 19:32:35  ShipMethod COunt total:-24
+17-03-2026 19:32:35  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:32:46  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 19:32:46  ShipMethod COunt total:-24
+17-03-2026 19:32:46  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 19:32:46  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:32:47  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 19:32:51  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:32:51  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:32:53  dt.Rows.Count:-2
+17-03-2026 19:32:53  ItemName:---Select--
+17-03-2026 19:32:53  cmbItem_SelectedIndexChanged row.Length0
+17-03-2026 19:32:56  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 19:32:58  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 19:33:00  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 19:33:02  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 19:33:47  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:33:47  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:33:49  dt.Rows.Count:-2
+17-03-2026 19:33:49  ItemName:---Select--
+17-03-2026 19:33:49  cmbItem_SelectedIndexChanged row.Length0
+17-03-2026 19:33:50  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:33:50  dt.Rows.Count:-2
+17-03-2026 19:33:50  ItemName:-Bhumika
+17-03-2026 19:33:50  row.Length:-1, ItemName:-Bhumika, CustomerID:-1
+17-03-2026 19:33:50  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:33:50  dtSale.Rows.Count:-0, ItemID:-1, CustomerID:-1
+17-03-2026 19:33:50  Previouse Price,Line No 4910 dtSale Count:0
+17-03-2026 19:34:00  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:34:24  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+17-03-2026 19:34:28  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+17-03-2026 19:34:32  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+17-03-2026 19:34:36  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+17-03-2026 19:34:40  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+17-03-2026 19:34:42  Invoice 1250 txtInvoiceNo.Text:-136
+17-03-2026 19:34:54  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:34:54  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:34:57  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:34:57  dt.Rows.Count:-2
+17-03-2026 19:34:57  ItemName:-Cuties
+17-03-2026 19:34:57  row.Length:-1, ItemName:-Cuties, CustomerID:-2
+17-03-2026 19:34:57  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:34:57  dtSale.Rows.Count:-0, ItemID:-2, CustomerID:-2
+17-03-2026 19:34:57  Previouse Price,Line No 4910 dtSale Count:0
+17-03-2026 19:35:06  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:35:23  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+17-03-2026 19:35:38  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:35:38  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:35:39  Invoice 1250 txtInvoiceNo.Text:-137
+17-03-2026 19:35:39  Invoice 1250 txtInvoiceNo.Text:-137
+17-03-2026 19:35:50  ShipMethod COunt total:-24
+17-03-2026 19:35:50  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:35:50  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:35:55  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:35:55  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:35:59  ShipMethod COunt total:-24
+17-03-2026 19:35:59  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:35:59  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:36:02  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:36:02  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:36:11  ShipMethod COunt total:-24
+17-03-2026 19:36:11  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:36:11  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:36:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:36:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:36:18  ShipMethod COunt total:-24
+17-03-2026 19:36:18  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:36:20  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:36:27  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:36:27  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:36:31  ShipMethod COunt total:-24
+17-03-2026 19:36:31  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:36:31  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:38:14  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 19:38:14  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 19:38:15  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:38:15  ShipMethod COunt total:-24
+17-03-2026 19:38:15  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:38:15  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:38:15  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 19:38:15  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 19:38:20  ShipMethod COunt total:-24
+17-03-2026 19:38:20  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:38:24  ShipMethod COunt total:-24
+17-03-2026 19:38:24  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:38:24  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:38:24  ShipMethod COunt total:-24
+17-03-2026 19:38:24  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:38:24  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:38:27  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:38:27  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:38:31  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:38:33  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:38:33  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:38:34  dt.Rows.Count:-2
+17-03-2026 19:38:34  ItemName:---Select--
+17-03-2026 19:38:34  cmbItem_SelectedIndexChanged row.Length0
+17-03-2026 19:38:37  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:38:37  dt.Rows.Count:-2
+17-03-2026 19:38:37  ItemName:-Bhumika
+17-03-2026 19:38:37  row.Length:-1, ItemName:-Bhumika, CustomerID:-1
+17-03-2026 19:38:37  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:38:37  dtSale.Rows.Count:-0, ItemID:-1, CustomerID:-1
+17-03-2026 19:38:37  Previouse Price,Line No 4910 dtSale Count:0
+17-03-2026 19:38:45  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:38:59  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:38:59  dt.Rows.Count:-2
+17-03-2026 19:38:59  ItemName:-Bhumika
+17-03-2026 19:38:59  row.Length:-1, ItemName:-Bhumika, CustomerID:-1
+17-03-2026 19:38:59  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:38:59  dtSale.Rows.Count:-0, ItemID:-1, CustomerID:-1
+17-03-2026 19:38:59  Previouse Price,Line No 4910 dtSale Count:0
+17-03-2026 19:39:00  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:39:07  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+17-03-2026 19:39:13  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:39:13  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:39:14  Invoice 1250 txtInvoiceNo.Text:-138
+17-03-2026 19:39:14  Invoice 1250 txtInvoiceNo.Text:-138
+17-03-2026 19:39:25  ShipMethod COunt total:-24
+17-03-2026 19:39:25  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:39:25  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:39:31  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:39:43  ShipMethod COunt total:-24
+17-03-2026 19:39:43  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:39:43  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:39:46  ShipMethod COunt total:-24
+17-03-2026 19:39:46  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:39:46  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:40:03  Invoice 1250 txtInvoiceNo.Text:-138
+17-03-2026 19:40:03  Invoice 1250 txtInvoiceNo.Text:-138
+17-03-2026 19:40:05  Invoice 1250 txtInvoiceNo.Text:-138
+17-03-2026 19:40:09  Invoice 1250 txtInvoiceNo.Text:-138
+17-03-2026 19:40:09  Invoice 1250 txtInvoiceNo.Text:-138
+17-03-2026 19:40:12  Invoice 1250 txtInvoiceNo.Text:-138
+17-03-2026 19:40:15  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:40:16  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:40:19  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:40:21  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:40:21  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:40:22  dt.Rows.Count:-2
+17-03-2026 19:40:22  ItemName:---Select--
+17-03-2026 19:40:22  cmbItem_SelectedIndexChanged row.Length0
+17-03-2026 19:40:25  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:40:25  dt.Rows.Count:-2
+17-03-2026 19:40:25  ItemName:-Bhumika
+17-03-2026 19:40:25  row.Length:-1, ItemName:-Bhumika, CustomerID:-1
+17-03-2026 19:40:25  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:40:25  dtSale.Rows.Count:-1, ItemID:-1, CustomerID:-1
+17-03-2026 19:40:25  Previouse Price,Line No 4910 dtSale Count:1
+17-03-2026 19:40:31  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:43:46  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+17-03-2026 19:44:22  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:44:22  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:44:23  Invoice 1250 txtInvoiceNo.Text:-139
+17-03-2026 19:44:29  ShipMethod COunt total:-24
+17-03-2026 19:44:29  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:44:29  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:44:35  ShipMethod COunt total:-24
+17-03-2026 19:44:35  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:44:36  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:44:41  ShipMethod COunt total:-24
+17-03-2026 19:44:41  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:44:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:44:45  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:44:45  dt.Rows.Count:-2
+17-03-2026 19:44:45  ItemName:-Bhumika
+17-03-2026 19:44:45  row.Length:-1, ItemName:-Bhumika, CustomerID:-1
+17-03-2026 19:44:45  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:44:45  dtSale.Rows.Count:-2, ItemID:-1, CustomerID:-1
+17-03-2026 19:44:45  Previouse Price,Line No 4910 dtSale Count:2
+17-03-2026 19:44:51  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:44:53  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:44:53  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:44:53  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:44:53  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 19:44:58  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+17-03-2026 19:45:01  ShipMethod COunt total:-24
+17-03-2026 19:45:01  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:45:01  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:45:01  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:46:10  ShipMethod COunt total:-24
+17-03-2026 19:46:10  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:46:10  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:46:10  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:46:17  ShipMethod COunt total:-24
+17-03-2026 19:46:17  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:46:18  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 19:47:10  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 19:47:10  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 19:47:10  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:47:10  ShipMethod COunt total:-24
+17-03-2026 19:47:10  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 19:47:10  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 19:47:10  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 19:47:10  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 20:02:37  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 20:02:37  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 20:02:38  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 20:02:38  ShipMethod COunt total:-24
+17-03-2026 20:02:38  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 20:02:38  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 20:02:38  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 20:02:38  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 20:02:48  ShipMethod COunt total:-24
+17-03-2026 20:02:48  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 20:02:58  ShipMethod COunt total:-24
+17-03-2026 20:02:58  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 20:02:58  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 20:02:58  ShipMethod COunt total:-24
+17-03-2026 20:02:58  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 20:02:58  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 20:02:58  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 20:04:02  ShipMethod COunt total:-24
+17-03-2026 20:04:02  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 20:04:02  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 20:05:07  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 20:05:07  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 20:05:09  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 20:05:09  ShipMethod COunt total:-24
+17-03-2026 20:05:09  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 20:05:09  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 20:05:09  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 20:05:09  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 20:05:14  ShipMethod COunt total:-24
+17-03-2026 20:05:14  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 20:05:59  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 20:05:59  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 20:06:01  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 20:06:02  ShipMethod COunt total:-24
+17-03-2026 20:06:02  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 20:06:02  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 20:06:03  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 20:06:03  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 20:06:07  ShipMethod COunt total:-24
+17-03-2026 20:06:07  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 20:06:53  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+17-03-2026 20:06:53  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+17-03-2026 20:06:53  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 20:06:53  ShipMethod COunt total:-24
+17-03-2026 20:06:53  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 20:06:53  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 20:06:53  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 20:06:53  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 20:07:09  ShipMethod COunt total:-24
+17-03-2026 20:07:09  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 20:07:13  Creditmemo 1101 txtInvoiceNo.Text:-200000178CM
+17-03-2026 20:07:13  Creditmemo 1101 txtInvoiceNo.Text:-200000178CM
+17-03-2026 20:07:13  Creditmemo 1101 txtInvoiceNo.Text:-200000178CM
+17-03-2026 20:07:15  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 20:07:26  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+17-03-2026 20:07:31  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+17-03-2026 20:07:34  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+17-03-2026 20:07:44  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 20:07:44  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+17-03-2026 20:07:45  Creditmemo 1117 txtInvoiceNo.Text:-500000032CM
+17-03-2026 20:07:51  ShipMethod COunt total:-24
+17-03-2026 20:07:51  Invoice 1266 txtInvoiceNo.Text:-500000125
+17-03-2026 20:07:51  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 20:07:51  ShipMethod COunt total:-24
+17-03-2026 20:07:51  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 20:07:51  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 20:07:53  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 20:08:40  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 20:08:55  ShipMethod COunt total:-24
+17-03-2026 20:08:55  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 20:08:55  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 20:08:56  ShipMethod COunt total:-24
+17-03-2026 20:08:56  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 20:08:56  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 20:08:59  ShipMethod COunt total:-24
+17-03-2026 20:08:59  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 20:08:59  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 20:08:59  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 20:09:02  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+17-03-2026 20:15:39  ShipMethod COunt total:-24
+17-03-2026 20:15:39  cmbItem_SelectedIndexChanged LineNo :-4757
+17-03-2026 20:15:39  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13

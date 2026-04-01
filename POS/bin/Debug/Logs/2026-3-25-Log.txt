@@ -1,0 +1,814 @@
+25-03-2026 11:02:44  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 11:02:44  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 11:02:45  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 11:02:45  ShipMethod COunt total:-5
+25-03-2026 11:02:45  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 11:02:45  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 11:02:46  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 11:02:46  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 11:11:09  ShipMethod COunt total:-5
+25-03-2026 11:11:09  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 11:12:35  Invoice 1250 txtInvoiceNo.Text:-596082
+25-03-2026 11:12:35  ShipMethod COunt total:-5
+25-03-2026 11:12:36  Invoice 1250 txtInvoiceNo.Text:-596082
+25-03-2026 11:12:36  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 11:12:37  Invoice 1250 txtInvoiceNo.Text:-596082
+25-03-2026 11:12:37  Invoice 1250 txtInvoiceNo.Text:-596082
+25-03-2026 11:13:46  Form: FrmFedExUPSShippingManager, Function: rdbUPS_CheckedChanged, Message:Column 'Name' does not belong to table .
+25-03-2026 11:13:49  Form: FrmFedExUPSShippingManager, Function: rdbUPS_CheckedChanged, Message:Column 'Name' does not belong to table .
+25-03-2026 11:13:53  Form: FrmFedExUPSShippingManager, Function: rdbUPS_CheckedChanged, Message:Column 'Name' does not belong to table .
+25-03-2026 11:14:03  Form: FrmFedExUPSShippingManager, Function: rdbUPS_CheckedChanged, Message:Column 'Name' does not belong to table .
+25-03-2026 11:14:20  Form: FrmFedExUPSShippingManager, Function: rdbUPS_CheckedChanged, Message:Column 'Name' does not belong to table .
+25-03-2026 11:34:22  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 11:34:22  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 11:34:24  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 11:34:24  ShipMethod COunt total:-5
+25-03-2026 11:34:24  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 11:34:24  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 11:34:24  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 11:34:24  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 11:34:31  ShipMethod COunt total:-5
+25-03-2026 11:34:31  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 11:34:45  Form: FrmFedExUPSShippingManager, Function: rdbUPS_CheckedChanged, Message:Column 'Note' does not belong to table .
+25-03-2026 11:36:18  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 11:36:18  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 11:36:20  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 11:36:20  ShipMethod COunt total:-5
+25-03-2026 11:36:20  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 11:36:20  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 11:36:20  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 11:36:20  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 11:36:28  ShipMethod COunt total:-5
+25-03-2026 11:36:28  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 11:36:35  Invoice 1250 txtInvoiceNo.Text:-596082
+25-03-2026 11:36:35  ShipMethod COunt total:-5
+25-03-2026 11:36:35  Invoice 1250 txtInvoiceNo.Text:-596082
+25-03-2026 11:36:35  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 11:36:36  Invoice 1250 txtInvoiceNo.Text:-596082
+25-03-2026 11:36:37  Invoice 1250 txtInvoiceNo.Text:-596082
+25-03-2026 12:47:12  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 12:47:12  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 12:47:14  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 12:47:14  ShipMethod COunt total:-5
+25-03-2026 12:47:14  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 12:47:14  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 12:47:14  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 12:47:14  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 12:47:27  ShipMethod COunt total:-5
+25-03-2026 12:47:27  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 12:48:51  ShipMethod COunt total:-5
+25-03-2026 12:48:51  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 12:48:51  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 12:48:52  ShipMethod COunt total:-5
+25-03-2026 12:48:52  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:48:52  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:49:02  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:02  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:02  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:02  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:02  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:02  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:02  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:02  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:02  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:02  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:02  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:02  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:02  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:02  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:02  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:02  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:03  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:03  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:03  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:03  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:03  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:03  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:03  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:03  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:03  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:03  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:03  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:03  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:03  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 12:49:03  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:49:03  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 12:50:33  ShipMethod COunt total:-5
+25-03-2026 12:50:33  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 12:50:51  Form:FrmFedExUPSShippingManager,Function :btnAvailableServices_Click. Message:There is no row at position 0.
+25-03-2026 12:50:53  Form:FrmCustomerCenter,Function :dgvInvoiceList_CellContentClick. Message:There is no row at position 0.
+25-03-2026 13:40:06  UPS Error Details: {"response":{"errors":[{"code":"111100","message":"The requested service is invalid from the selected origin."}]}}
+25-03-2026 13:41:23  POST Response Rate Extract. Message:Data at the root level is invalid. Line 1, position 1.
+25-03-2026 13:41:41  POST Response Rate Extract. Message:Data at the root level is invalid. Line 1, position 1.
+25-03-2026 13:47:40  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 13:47:40  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 13:47:42  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 13:47:42  ShipMethod COunt total:-5
+25-03-2026 13:47:42  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 13:47:42  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 13:47:42  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 13:47:42  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 13:47:49  ShipMethod COunt total:-5
+25-03-2026 13:47:49  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 13:59:39  ShipMethod COunt total:-5
+25-03-2026 13:59:39  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 13:59:40  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 13:59:41  ShipMethod COunt total:-5
+25-03-2026 13:59:41  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 13:59:41  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:29  ShipMethod COunt total:-5
+25-03-2026 14:01:29  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:32  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:01:40  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:01:40  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:20  ShipMethod COunt total:-5
+25-03-2026 14:09:20  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:09:20  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:09:20  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:09:20  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:09:21  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:09:21  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:21  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:21  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:09:21  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:21  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:21  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:09:21  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:21  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:47  ShipMethod COunt total:-5
+25-03-2026 14:09:48  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:09:48  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:09:48  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:09:48  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:09:48  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:09:48  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:09:50  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:09:50  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:50  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:50  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:09:50  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:50  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:50  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:09:50  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:50  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:50  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:09:50  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:50  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:50  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:09:50  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:09:50  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:17:16  ShipMethod COunt total:-5
+25-03-2026 14:17:17  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:17:17  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:17:17  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:17:17  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:17:17  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:17:17  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:17:21  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:17:21  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:17:21  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:17:21  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:17:21  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:17:21  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:17:21  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:17:21  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:17:21  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:17:21  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:17:21  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:17:21  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:17:21  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:17:21  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:17:21  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:18:13  ShipMethod COunt total:-5
+25-03-2026 14:18:13  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:18:14  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:18:14  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:18:14  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:18:14  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:18:14  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:18:19  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:18:19  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:18:19  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:18:19  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:18:19  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:18:19  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:18:19  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:18:19  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:18:19  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:18:19  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:18:19  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:18:19  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:18:19  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:18:19  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:18:19  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:20:37  ShipMethod COunt total:-5
+25-03-2026 14:20:37  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:20:38  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:20:38  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:20:38  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:21:37  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:21:37  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:21:37  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:21:38  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:21:38  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:21:38  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:21:38  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:21:38  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:21:38  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:22:49  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 14:22:49  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 14:22:51  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 14:22:51  ShipMethod COunt total:-5
+25-03-2026 14:22:51  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 14:22:51  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:22:51  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 14:22:51  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 14:22:58  ShipMethod COunt total:-5
+25-03-2026 14:22:58  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 14:23:09  ShipMethod COunt total:-5
+25-03-2026 14:23:09  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 14:23:09  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:23:09  ShipMethod COunt total:-5
+25-03-2026 14:23:09  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:23:10  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:23:10  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:23:10  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:23:10  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:23:10  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:23:14  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:23:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:23:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:23:14  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:23:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:23:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:23:14  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:23:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:23:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:23:14  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:23:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:23:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:23:14  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:23:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:23:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:26:22  ShipMethod COunt total:-5
+25-03-2026 14:26:22  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:26:24  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:26:24  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:26:24  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:26:24  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:26:24  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:26:24  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:26:27  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:26:27  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:26:27  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:26:27  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:26:27  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:26:27  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:26:27  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:26:27  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:26:27  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:26:27  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:26:27  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:26:27  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:26:27  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:26:27  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:26:27  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:26:27  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:26:27  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:26:27  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:31:03  ShipMethod COunt total:-5
+25-03-2026 14:31:03  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:31:20  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:31:20  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:31:20  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:31:20  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:31:20  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:31:20  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:31:20  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:31:25  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:31:25  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:31:25  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:31:25  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:31:25  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:31:25  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:31:25  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:31:25  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:31:25  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:31:25  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:31:25  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:31:25  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:31:25  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:31:25  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:31:25  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:31:25  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:31:25  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:31:25  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:31:25  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:31:25  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:31:25  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:38:07  ShipMethod COunt total:-5
+25-03-2026 14:38:07  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:38:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:38:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:38:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:38:09  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:38:09  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:38:09  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:38:09  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:38:09  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:38:09  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:38:09  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:38:09  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:38:09  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:38:36  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 14:38:36  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 14:38:37  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 14:38:37  ShipMethod COunt total:-5
+25-03-2026 14:38:37  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 14:38:37  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:38:37  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 14:38:37  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 14:38:44  ShipMethod COunt total:-5
+25-03-2026 14:38:44  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 14:38:54  ShipMethod COunt total:-5
+25-03-2026 14:38:54  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 14:38:54  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:38:55  ShipMethod COunt total:-5
+25-03-2026 14:38:55  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:38:57  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:38:57  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:38:57  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:38:57  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:38:57  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:38:57  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:02  ShipMethod COunt total:-5
+25-03-2026 14:39:02  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:39:03  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:03  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:03  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:03  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:03  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:06  ShipMethod COunt total:-5
+25-03-2026 14:39:06  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:39:06  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:06  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:06  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:07  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:11  ShipMethod COunt total:-5
+25-03-2026 14:39:11  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:39:11  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:11  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:11  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:11  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:11  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:11  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:11  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:11  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:11  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:11  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:39:14  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:39:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:39:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:39:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:39:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:39:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:39:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:39:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:39:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:39:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 14:39:14  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:39:14  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 14:45:23  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 14:45:23  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 14:45:25  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 14:45:25  ShipMethod COunt total:-5
+25-03-2026 14:45:25  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 14:45:25  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:45:25  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 14:45:25  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 14:45:32  ShipMethod COunt total:-5
+25-03-2026 14:45:32  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 14:52:11  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 14:52:12  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 14:56:13  ShipMethod COunt total:-5
+25-03-2026 14:56:13  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 14:56:14  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:56:14  ShipMethod COunt total:-5
+25-03-2026 14:56:14  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 14:56:15  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:32:01  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 15:32:01  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 15:32:03  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 15:32:03  ShipMethod COunt total:-5
+25-03-2026 15:32:03  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 15:32:03  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 15:32:03  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 15:32:03  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 15:32:33  ShipMethod COunt total:-5
+25-03-2026 15:32:33  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 15:33:03  ShipMethod COunt total:-5
+25-03-2026 15:33:03  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 15:33:03  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 15:33:03  ShipMethod COunt total:-5
+25-03-2026 15:33:03  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:04  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:33:05  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:05  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:05  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:05  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:05  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:05  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:05  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:05  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:05  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:05  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:05  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:05  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:06  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:06  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:06  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:06  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:06  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:06  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:06  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:06  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:06  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:06  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:06  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:06  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:06  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:06  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:06  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:06  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:06  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:06  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:06  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+25-03-2026 15:33:06  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:06  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+25-03-2026 15:33:30  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 15:33:30  ShipMethod COunt total:-5
+25-03-2026 15:33:30  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 15:33:30  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 15:46:15  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 15:46:15  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 15:46:17  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 15:46:17  ShipMethod COunt total:-5
+25-03-2026 15:46:17  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 15:46:17  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 15:46:17  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 15:46:17  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 15:46:26  ShipMethod COunt total:-5
+25-03-2026 15:46:26  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 15:57:42  ShipMethod COunt total:-5
+25-03-2026 15:57:42  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 15:57:43  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 15:57:43  ShipMethod COunt total:-5
+25-03-2026 15:57:43  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 15:57:44  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:57:44  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 15:57:44  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 16:35:36  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 16:35:36  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 16:35:38  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 16:35:38  ShipMethod COunt total:-5
+25-03-2026 16:35:38  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 16:35:38  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 16:35:38  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 16:35:38  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 16:35:44  ShipMethod COunt total:-5
+25-03-2026 16:35:44  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 16:35:54  ShipMethod COunt total:-5
+25-03-2026 16:35:54  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 16:35:54  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 16:35:54  ShipMethod COunt total:-5
+25-03-2026 16:35:54  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 16:35:55  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 16:46:09  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 16:46:09  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 16:46:12  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 16:46:13  ShipMethod COunt total:-5
+25-03-2026 16:46:13  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 16:46:13  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 16:46:14  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 16:46:14  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+25-03-2026 16:46:28  ShipMethod COunt total:-5
+25-03-2026 16:46:28  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 16:48:11  ShipMethod COunt total:-5
+25-03-2026 16:48:12  Invoice 1266 txtInvoiceNo.Text:-8002535
+25-03-2026 16:48:12  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 16:48:12  ShipMethod COunt total:-5
+25-03-2026 16:48:12  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 16:48:13  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+25-03-2026 17:59:46  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 17:59:46  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 17:59:48  ShipMethod COunt total:-5
+25-03-2026 17:59:48  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 17:59:58  ShipMethod COunt total:-5
+25-03-2026 18:00:01  ShipMethod COunt total:-5
+25-03-2026 18:00:01  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 21:05:52  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 21:05:52  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 21:05:54  ShipMethod COunt total:-5
+25-03-2026 21:05:54  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 21:09:53  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 21:09:53  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 21:09:54  ShipMethod COunt total:-5
+25-03-2026 21:09:54  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 21:10:12  ShipMethod COunt total:-5
+25-03-2026 21:18:12  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+25-03-2026 21:18:12  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+25-03-2026 21:18:14  ShipMethod COunt total:-5
+25-03-2026 21:18:14  cmbItem_SelectedIndexChanged LineNo :-4757
+25-03-2026 21:18:30  ShipMethod COunt total:-5
+25-03-2026 21:23:14  ShipMethod COunt total:-5
+25-03-2026 21:23:15  cmbItem_SelectedIndexChanged LineNo :-4757

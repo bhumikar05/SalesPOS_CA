@@ -1,0 +1,14 @@
+30-03-2026 16:21:58  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+30-03-2026 16:21:58  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+30-03-2026 16:22:00  ShipMethod COunt total:-8
+30-03-2026 16:22:00  cmbItem_SelectedIndexChanged LineNo :-4757
+30-03-2026 16:22:11  ShipMethod COunt total:-8
+30-03-2026 20:28:20  ShipMethod COunt total:-8
+30-03-2026 20:28:26  ShipMethod COunt total:-8
+30-03-2026 20:28:26  cmbItem_SelectedIndexChanged LineNo :-4757
+30-03-2026 20:28:27  ShipMethod COunt total:-8
+30-03-2026 20:28:28  cmbItem_SelectedIndexChanged LineNo :-4757
+30-03-2026 20:28:30  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+30-03-2026 20:29:33  ShipMethod COunt total:-8
+30-03-2026 20:29:33  cmbItem_SelectedIndexChanged LineNo :-4757
+30-03-2026 20:29:36  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13

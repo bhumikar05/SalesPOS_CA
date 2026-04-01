@@ -1,0 +1,144 @@
+19-03-2026 10:48:42  Form:FrmNewSalesRep,Function :GetUserType. Message:Column 'UserType' does not belong to table .
+19-03-2026 12:27:15  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+19-03-2026 12:27:15  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+19-03-2026 12:28:58  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+19-03-2026 12:28:59  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+19-03-2026 12:29:04  Invoice 1266 txtInvoiceNo.Text:-8002535
+19-03-2026 12:29:04  ShipMethod COunt total:-5
+19-03-2026 12:29:04  Invoice 1266 txtInvoiceNo.Text:-8002535
+19-03-2026 12:29:05  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 12:29:05  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+19-03-2026 12:29:05  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+19-03-2026 12:48:19  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+19-03-2026 12:48:19  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+19-03-2026 12:48:21  Invoice 1266 txtInvoiceNo.Text:-8002535
+19-03-2026 12:48:22  ShipMethod COunt total:-5
+19-03-2026 12:48:22  Invoice 1266 txtInvoiceNo.Text:-8002535
+19-03-2026 12:48:25  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 12:48:25  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+19-03-2026 12:48:25  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+19-03-2026 12:49:24  ShipMethod COunt total:-5
+19-03-2026 12:49:24  Invoice 1266 txtInvoiceNo.Text:-8002535
+19-03-2026 12:59:23  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+19-03-2026 12:59:23  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+19-03-2026 13:03:24  Invoice 1266 txtInvoiceNo.Text:-8002535
+19-03-2026 13:03:24  ShipMethod COunt total:-5
+19-03-2026 13:03:24  Invoice 1266 txtInvoiceNo.Text:-8002535
+19-03-2026 13:03:26  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 13:03:26  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+19-03-2026 13:03:26  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+19-03-2026 13:04:59  ShipMethod COunt total:-5
+19-03-2026 13:04:59  Invoice 1266 txtInvoiceNo.Text:-8002535
+19-03-2026 13:05:07  ShipMethod COunt total:-5
+19-03-2026 13:05:07  Invoice 1266 txtInvoiceNo.Text:-8002535
+19-03-2026 13:05:07  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 13:05:08  ShipMethod COunt total:-5
+19-03-2026 13:05:08  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 13:05:08  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 13:05:08  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 13:06:17  ShipMethod COunt total:-5
+19-03-2026 13:06:17  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 13:06:17  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 13:07:31  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 13:07:31  dt.Rows.Count:-2770
+19-03-2026 13:07:31  ItemName:-A01CHARGEPORT
+19-03-2026 13:07:31  row.Length:-1, ItemName:-A01CHARGEPORT, CustomerID:-606
+19-03-2026 13:07:31  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 13:07:31  dtSale.Rows.Count:-0, ItemID:-3, CustomerID:-606
+19-03-2026 13:07:31  Previouse Price,Line No 4910 dtSale Count:0
+19-03-2026 13:07:40  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 13:07:40  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 13:08:22  Form:FrmItemMaster,Function :SaveData. Message: Error Create Customer Data
+19-03-2026 13:08:25  Form:FrmItemMaster,Function :SaveData. Message: Error Create Customer Data
+19-03-2026 13:08:57  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 13:08:57  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 13:08:57  dt.Rows.Count:-2771
+19-03-2026 13:08:57  ItemName:-bhhu12232
+19-03-2026 13:08:57  row.Length:-1, ItemName:-bhhu12232, CustomerID:-606
+19-03-2026 13:08:57  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 13:08:57  dtSale.Rows.Count:-0, ItemID:-6013, CustomerID:-606
+19-03-2026 13:08:57  Previouse Price,Line No 4910 dtSale Count:0
+19-03-2026 13:08:58  dt.Rows.Count:-2771
+19-03-2026 13:08:58  ItemName:-bhhu12232
+19-03-2026 13:08:58  row.Length:-1, ItemName:-bhhu12232, CustomerID:-606
+19-03-2026 13:08:58  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 13:08:58  dtSale.Rows.Count:-0, ItemID:-6013, CustomerID:-606
+19-03-2026 13:08:58  Previouse Price,Line No 4910 dtSale Count:0
+19-03-2026 13:12:45  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+19-03-2026 13:12:45  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+19-03-2026 13:12:47  Invoice 1266 txtInvoiceNo.Text:-8002535
+19-03-2026 13:12:47  ShipMethod COunt total:-5
+19-03-2026 13:12:47  Invoice 1266 txtInvoiceNo.Text:-8002535
+19-03-2026 13:12:47  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 13:12:47  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+19-03-2026 13:12:47  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+19-03-2026 13:13:05  ShipMethod COunt total:-5
+19-03-2026 13:13:05  Invoice 1266 txtInvoiceNo.Text:-8002535
+19-03-2026 13:13:35  ShipMethod COunt total:-5
+19-03-2026 13:13:35  Invoice 1266 txtInvoiceNo.Text:-8002535
+19-03-2026 13:13:35  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 13:13:36  ShipMethod COunt total:-5
+19-03-2026 13:13:36  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 13:13:36  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 13:46:34  ShipMethod COunt total:-5
+19-03-2026 13:46:34  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 13:46:34  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 13:46:34  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 13:46:34  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 14:42:11  ShipMethod COunt total:-5
+19-03-2026 14:42:11  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 14:42:11  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 14:44:46  ShipMethod COunt total:-5
+19-03-2026 14:44:46  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 14:44:47  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 14:44:50  ShipMethod COunt total:-5
+19-03-2026 14:44:50  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 14:44:51  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 14:44:53  ShipMethod COunt total:-5
+19-03-2026 14:44:53  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 14:44:53  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 14:44:56  ShipMethod COunt total:-5
+19-03-2026 14:44:56  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 14:44:56  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 14:54:54  ShipMethod COunt total:-5
+19-03-2026 14:54:54  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 14:54:55  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 14:54:55  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 14:55:00  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 14:55:00  dt.Rows.Count:-2771
+19-03-2026 14:55:00  ItemName:-ANTENNA FLEX
+19-03-2026 14:55:00  row.Length:-1, ItemName:-ANTENNA FLEX, CustomerID:-2986
+19-03-2026 14:55:00  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 14:55:00  dtSale.Rows.Count:-0, ItemID:-67, CustomerID:-2986
+19-03-2026 14:55:00  Previouse Price,Line No 4910 dtSale Count:0
+19-03-2026 14:55:02  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 15:12:15  ShipMethod COunt total:-5
+19-03-2026 15:12:15  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 15:12:15  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 15:12:22  ShipMethod COunt total:-5
+19-03-2026 15:12:22  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 15:12:22  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 15:12:22  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 15:12:22  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 15:12:22  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 15:12:22  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 15:12:22  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 15:12:22  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 15:12:22  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 16:03:42  ShipMethod COunt total:-5
+19-03-2026 16:03:42  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 16:03:43  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 16:03:43  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 16:04:28  ShipMethod COunt total:-5
+19-03-2026 16:04:29  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 16:04:29  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 16:04:29  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 16:04:29  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 16:04:29  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 16:04:29  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 16:04:29  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 16:04:29  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 16:04:29  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+19-03-2026 16:12:33  ShipMethod COunt total:-5
+19-03-2026 16:12:33  cmbItem_SelectedIndexChanged LineNo :-4757
+19-03-2026 16:12:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13

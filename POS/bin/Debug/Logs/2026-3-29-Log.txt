@@ -1,0 +1,89 @@
+29-03-2026 17:02:34  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+29-03-2026 17:02:34  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+29-03-2026 17:02:36  ShipMethod COunt total:-8
+29-03-2026 17:02:36  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 17:02:46  ShipMethod COunt total:-8
+29-03-2026 17:02:49  ShipMethod COunt total:-8
+29-03-2026 17:02:49  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 17:02:56  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 17:02:56  dt.Rows.Count:-2828
+29-03-2026 17:02:56  ItemName:-A01CHARGEPORT
+29-03-2026 17:02:56  row.Length:-1, ItemName:-A01CHARGEPORT, CustomerID:-1
+29-03-2026 17:02:56  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+29-03-2026 17:02:56  dtSale.Rows.Count:-0, ItemID:-3, CustomerID:-1
+29-03-2026 17:02:56  Previouse Price,Line No 4910 dtSale Count:0
+29-03-2026 17:03:05  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 17:03:11  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+29-03-2026 17:03:16  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+29-03-2026 17:04:16  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+29-03-2026 17:04:16  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+29-03-2026 17:04:16  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+29-03-2026 17:07:04  ShipMethod COunt total:-8
+29-03-2026 17:07:04  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 17:07:05  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+29-03-2026 18:23:38  ShipMethod COunt total:-8
+29-03-2026 18:23:38  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:23:38  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+29-03-2026 18:23:41  ShipMethod COunt total:-8
+29-03-2026 18:23:42  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:23:42  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+29-03-2026 18:23:43  ShipMethod COunt total:-8
+29-03-2026 18:23:43  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:23:43  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+29-03-2026 18:25:02  ShipMethod COunt total:-8
+29-03-2026 18:25:02  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:25:03  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+29-03-2026 18:25:13  ShipMethod COunt total:-8
+29-03-2026 18:25:13  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:25:14  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+29-03-2026 18:25:19  ShipMethod COunt total:-8
+29-03-2026 18:25:19  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:25:19  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+29-03-2026 18:25:47  ShipMethod COunt total:-8
+29-03-2026 18:25:47  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:25:48  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+29-03-2026 18:29:12  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+29-03-2026 18:29:12  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+29-03-2026 18:29:12  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+29-03-2026 18:55:35  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+29-03-2026 18:55:35  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+29-03-2026 18:55:37  ShipMethod COunt total:-8
+29-03-2026 18:55:37  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:55:45  ShipMethod COunt total:-8
+29-03-2026 18:55:48  ShipMethod COunt total:-8
+29-03-2026 18:55:49  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:55:55  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+29-03-2026 18:55:58  Form:FrmInvoiceMaster,Function :SaveData. Message: Error Create Customer Data
+29-03-2026 18:56:00  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:56:00  dt.Rows.Count:-2828
+29-03-2026 18:56:00  ItemName:-A01CHARGEPORT
+29-03-2026 18:56:00  row.Length:-1, ItemName:-A01CHARGEPORT, CustomerID:-1
+29-03-2026 18:56:00  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+29-03-2026 18:56:00  dtSale.Rows.Count:-1, ItemID:-3, CustomerID:-1
+29-03-2026 18:56:00  Previouse Price,Line No 4910 dtSale Count:1
+29-03-2026 18:56:07  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:56:13  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+29-03-2026 18:56:13  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+29-03-2026 18:56:13  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+29-03-2026 18:56:32  ShipMethod COunt total:-8
+29-03-2026 18:56:32  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:56:33  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+29-03-2026 18:56:36  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+29-03-2026 18:56:36  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+29-03-2026 18:56:36  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+29-03-2026 18:56:39  ShipMethod COunt total:-8
+29-03-2026 18:56:39  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:56:40  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+29-03-2026 18:58:55  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+29-03-2026 18:58:55  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+29-03-2026 18:58:57  ShipMethod COunt total:-8
+29-03-2026 18:58:57  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:59:11  ShipMethod COunt total:-8
+29-03-2026 18:59:12  ShipMethod COunt total:-8
+29-03-2026 18:59:12  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:59:13  ShipMethod COunt total:-8
+29-03-2026 18:59:13  cmbItem_SelectedIndexChanged LineNo :-4757
+29-03-2026 18:59:13  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+29-03-2026 19:00:52  Class:DAL,Function :Insert. Message:@Tax is not a parameter for procedure SPNewInvoiceDetails.
+29-03-2026 19:00:52  start insert BALItemSaleHistory InvoiceSaleHistory Line No:-44
+29-03-2026 19:00:52  end insert BALItemSaleHistory InvoiceSaleHistory Line No:-44

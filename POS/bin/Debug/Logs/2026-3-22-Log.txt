@@ -1,0 +1,39 @@
+22-03-2026 17:10:42  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+22-03-2026 17:10:42  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+22-03-2026 17:10:44  Invoice 1266 txtInvoiceNo.Text:-8002535
+22-03-2026 17:10:44  ShipMethod COunt total:-5
+22-03-2026 17:10:44  Invoice 1266 txtInvoiceNo.Text:-8002535
+22-03-2026 17:10:44  cmbItem_SelectedIndexChanged LineNo :-4757
+22-03-2026 17:10:44  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+22-03-2026 17:10:44  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+22-03-2026 18:54:05  ShipMethod COunt total:-5
+22-03-2026 18:54:05  Invoice 1266 txtInvoiceNo.Text:-8002535
+22-03-2026 18:54:18  ShipMethod COunt total:-5
+22-03-2026 18:54:18  Invoice 1266 txtInvoiceNo.Text:-8002535
+22-03-2026 18:54:34  Invoice 1250 txtInvoiceNo.Text:-596082
+22-03-2026 18:54:34  ShipMethod COunt total:-5
+22-03-2026 18:54:34  Invoice 1250 txtInvoiceNo.Text:-596082
+22-03-2026 18:54:34  cmbItem_SelectedIndexChanged LineNo :-4757
+22-03-2026 18:54:35  Invoice 1250 txtInvoiceNo.Text:-596082
+22-03-2026 18:54:50  cmbItem_SelectedIndexChanged LineNo :-4757
+22-03-2026 18:54:50  cmbItem_SelectedIndexChanged LineNo :-4757
+22-03-2026 18:54:52  dt.Rows.Count:-2771
+22-03-2026 18:54:52  ItemName:---Select--
+22-03-2026 18:54:52  cmbItem_SelectedIndexChanged row.Length0
+22-03-2026 18:55:21  cmbItem_SelectedIndexChanged LineNo :-4757
+22-03-2026 18:55:21  dt.Rows.Count:-2771
+22-03-2026 18:55:21  ItemName:-IPH15PROBACKDOORWHITE
+22-03-2026 18:55:21  row.Length:-1, ItemName:-IPH15PROBACKDOORWHITE, CustomerID:-2
+22-03-2026 18:55:21  start get BALItemSaleHistory InvoiceSaleHistory Line No:-13
+22-03-2026 18:55:21  dtSale.Rows.Count:-0, ItemID:-2228, CustomerID:-2
+22-03-2026 18:55:21  Previouse Price,Line No 4910 dtSale Count:0
+22-03-2026 18:55:21  Invoice 1250 txtInvoiceNo.Text:-596082
+22-03-2026 18:55:21  cmbItem_SelectedIndexChanged LineNo :-4757
+22-03-2026 19:01:23  Form:FrmCustomerLogs,Function :HideColumn. Table Not Count
+22-03-2026 19:01:23  Form:FrmInvoiceLogs,Function :HideColumn. Table Not Count
+22-03-2026 19:01:24  Invoice 1266 txtInvoiceNo.Text:-8002535
+22-03-2026 19:01:24  ShipMethod COunt total:-5
+22-03-2026 19:01:24  Invoice 1266 txtInvoiceNo.Text:-8002535
+22-03-2026 19:01:24  cmbItem_SelectedIndexChanged LineNo :-4757
+22-03-2026 19:01:24  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
+22-03-2026 19:01:24  Creditmemo 1110 txtInvoiceNo.Text:-8000000CM
